@@ -26,7 +26,7 @@
     "eslint": "^1.2.1"
   },
   "peerDependencies": {
-    "knex": "^0.8.6",
+    "knex": "^0.7.3",
     "pg": "^4.4.1"
   }
 }
